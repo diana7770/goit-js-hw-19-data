@@ -1,0 +1,24 @@
+{
+  "name": "goit-js-hw-19-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build *.html --public-url /timer-hw",
+    "pre-start": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diana7770/goit-js-hw-19-data.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diana7770/goit-js-hw-19-data/issues"
+  },
+  "homepage": "https://github.com/diana7770/goit-js-hw-19-data#readme",
+  "dependencies": {
+    "parcel": "^2.12.0"
+  }
+}
