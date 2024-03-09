@@ -18,12 +18,12 @@
 99C:\Users\Admin\Documents\GitHub\goit-js-hw-19-data\node_modules\@parcel\workers\lib\web\WebChild.js133543211713724996 0
 95C:\Users\Admin\Documents\GitHub\goit-js-hw-19-data\node_modules\lightningcss\node\index.js.flow133543211679063102 0
 101C:\Users\Admin\Documents\GitHub\goit-js-hw-19-data\node_modules\css-tree\lib\tokenizer\TokenStream.js133543211758845624 0
-55C:\Users\Admin\Documents\GitHub\goit-js-hw-19-data\dist133544114277876940 1
+55C:\Users\Admin\Documents\GitHub\goit-js-hw-19-data\dist133544471043710077 1
 114C:\Users\Admin\Documents\GitHub\goit-js-hw-19-data\node_modules\@parcel\reporter-dev-server\src\templates\404.html133543211670149250 0
 92C:\Users\Admin\Documents\GitHub\goit-js-hw-19-data\node_modules\electron-to-chromium\LICENSE133543211663702936 0
 74C:\Users\Admin\Documents\GitHub\goit-js-hw-19-data\node_modules\fill-range133543211670559020 1
 95C:\Users\Admin\Documents\GitHub\goit-js-hw-19-data\node_modules\svgo\plugins\applyTransforms.js133543211712665590 0
-59C:\Users\Admin\Documents\GitHub\goit-js-hw-19-data\index.js133544114274948614 0
+59C:\Users\Admin\Documents\GitHub\goit-js-hw-19-data\index.js133544471040391838 0
 88C:\Users\Admin\Documents\GitHub\goit-js-hw-19-data\node_modules\@swc\core-win32-x64-msvc133543211667620717 1
 121C:\Users\Admin\Documents\GitHub\goit-js-hw-19-data\node_modules\htmlnano\docs\versioned_docs\version-1.1.1\040-presets.md133543211727583185 0
 90C:\Users\Admin\Documents\GitHub\goit-js-hw-19-data\node_modules\source-map\source-map.d.ts133543211694526052 0
@@ -36,7 +36,7 @@
 103C:\Users\Admin\Documents\GitHub\goit-js-hw-19-data\node_modules\caniuse-lite\data\features\maxlength.js133543211778858498 0
 92C:\Users\Admin\Documents\GitHub\goit-js-hw-19-data\node_modules\css-tree\cjs\utils\index.cjs133543211730191684 0
 72C:\Users\Admin\Documents\GitHub\goit-js-hw-19-data\node_modules\boolbase133543211667330971 1
-77C:\Users\Admin\Documents\GitHub\goit-js-hw-19-data\dist\index.3d214d75.js.map133544114277806976 0
+77C:\Users\Admin\Documents\GitHub\goit-js-hw-19-data\dist\index.3d214d75.js.map133544471043680098 0
 106C:\Users\Admin\Documents\GitHub\goit-js-hw-19-data\node_modules\msgpackr-extract\bin\download-prebuilds.js133543211672706745 0
 121C:\Users\Admin\Documents\GitHub\goit-js-hw-19-data\node_modules\@msgpackr-extract\msgpackr-extract-win32-x64\package.json133543211664962219 0
 123C:\Users\Admin\Documents\GitHub\goit-js-hw-19-data\node_modules\csso\node_modules\css-tree\cjs\syntax\node\MediaFeature.cjs133543211731141147 0
@@ -59,7 +59,7 @@
 103C:\Users\Admin\Documents\GitHub\goit-js-hw-19-data\node_modules\caniuse-lite\data\features\css-table.js133543211756956715 0
 111C:\Users\Admin\Documents\GitHub\goit-js-hw-19-data\node_modules\@parcel\transformer-html\src\HTMLTransformer.js133543211677164356 0
 77C:\Users\Admin\Documents\GitHub\goit-js-hw-19-data\node_modules\svgo\lib\svgo133543211706788953 1
-73C:\Users\Admin\Documents\GitHub\goit-js-hw-19-data\dist\index.3d214d75.js133544114277687051 0
+73C:\Users\Admin\Documents\GitHub\goit-js-hw-19-data\dist\index.3d214d75.js133544471043455082 0
 86C:\Users\Admin\Documents\GitHub\goit-js-hw-19-data\node_modules\entities\lib\generated133543211701921748 1
 123C:\Users\Admin\Documents\GitHub\goit-js-hw-19-data\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_copy.c133543211712625614 0
 127C:\Users\Admin\Documents\GitHub\goit-js-hw-19-data\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\sample-mdb.txt133543211746752540 0
@@ -121,7 +121,7 @@
 95C:\Users\Admin\Documents\GitHub\goit-js-hw-19-data\node_modules\domelementtype\lib\esm\index.js133543211666951079 0
 85C:\Users\Admin\Documents\GitHub\goit-js-hw-19-data\node_modules\css-tree\cjs\data.cjs133543211707438580 0
 109C:\Users\Admin\Documents\GitHub\goit-js-hw-19-data\node_modules\caniuse-lite\data\features\mutation-events.js133543211780247716 0
-60C:\Users\Admin\Documents\GitHub\goit-js-hw-19-data\style.css133543225800130939 0
+60C:\Users\Admin\Documents\GitHub\goit-js-hw-19-data\style.css133544116051080586 0
 126C:\Users\Admin\Documents\GitHub\goit-js-hw-19-data\node_modules\css-select\node_modules\entities\lib\esm\decode_codepoint.d.ts133543211721036922 0
 124C:\Users\Admin\Documents\GitHub\goit-js-hw-19-data\node_modules\csso\node_modules\css-tree\cjs\syntax\node\AtrulePrelude.cjs133543211679572807 0
 104C:\Users\Admin\Documents\GitHub\goit-js-hw-19-data\node_modules\css-select\lib\pseudo-selectors\index.js133543211695135682 0
